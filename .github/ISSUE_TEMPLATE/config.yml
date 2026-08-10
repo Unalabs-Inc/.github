@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Una Labs support
+    url: https://unalabs.cloud/help
+    about: Product help, project questions, and support guidance.
+  - name: Report a security vulnerability
+    url: https://github.com/Unalabs-Inc/.github/security/policy
+    about: Read the private security-reporting instructions. Do not open a public security issue.
