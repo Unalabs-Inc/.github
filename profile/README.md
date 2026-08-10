@@ -47,6 +47,14 @@ The wider delivery catalogue also includes reusable vertical concepts for skille
 
 ## Company Architecture
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Unalabs-Inc/.github/main/assets/company-architecture.svg" alt="Una Labs delivery architecture: client signal, governed delivery, product platform, and trust and release" width="100%" />
+</p>
+
+<details>
+<summary><b>View the accessible technical flowchart</b></summary>
+<br/>
+
 ```mermaid
 flowchart TB
     subgraph CLIENT["01 · CLIENT AND MARKET ENTRY"]
@@ -98,6 +106,8 @@ flowchart TB
     class EDGE,APIS,DATA,MOBILE platform;
     class SECURITY,CI,PROOF,RELEASE trust;
 ```
+
+</details>
 
 ## Technology Stack
 
