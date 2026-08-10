@@ -16,15 +16,27 @@
 
 ---
 
-## What Una Labs Does
+## Company At A Glance
 
-| Capability | What clients receive |
+| Signal | Una Labs capability |
 |---|---|
-| **Product discovery** | Structured intake, requirements, workflow mapping, technical options, risk boundaries, and a buildable delivery slice |
-| **Product engineering** | Responsive web platforms, mobile applications, APIs, integrations, data models, automation, and release pipelines |
-| **AI workflow systems** | Human-governed AI features, approval checkpoints, privacy-conscious prompts, provider boundaries, and measurable outcomes |
-| **Delivery operations** | Proposals, milestones, project dashboards, approvals, reports, handover evidence, and production-readiness gates |
-| **Platform improvement** | Security hardening, performance work, operational automation, health checks, cost control, and recovery documentation |
+| **What we deliver** | Product engineering, secure AI workflows, web/mobile platforms, APIs, data systems, QA, and release governance |
+| **Localization experience** | English, French, and Spanish product catalogues and accessible interface foundations |
+| **Core stack** | TypeScript, React, React Native, Next.js, Node.js, Supabase, PostgreSQL, Cloudflare, and iOS delivery |
+| **Enterprise context** | Product strategy, business/systems analysis, ERP/WMS/POS workflows, QA/UAT, and operational rollout |
+| **Delivery standard** | Human-governed automation, least-privilege access, evidence-backed status, cost control, and documented handover |
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-0EA5E9?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/React%20Native-0EA5E9?style=flat-square&logo=react&logoColor=white" alt="React Native" />
+  <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-3C873A?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Supabase-0F172A?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/iOS-111827?style=flat-square&logo=apple&logoColor=white" alt="iOS delivery" />
+</p>
 
 ## Product and Venture Portfolio
 
@@ -44,6 +56,16 @@ States are stated deliberately: **live** means a public product surface exists; 
 | **Just Checking In** | Mobile game and Apple release-delivery programme | Unity, C#, iOS export, Xcode signing/archive, TestFlight and App Store workflows | **iOS release track** |
 
 The wider delivery catalogue also includes reusable vertical concepts for skilled trades, cold-chain logistics, brand/design delivery, internal automation, browser extensions, and mobile product experiments. Private client or user-sensitive systems remain private by design.
+
+## What Una Labs Does
+
+| Capability | What clients receive |
+|---|---|
+| **Product discovery** | Structured intake, requirements, workflow mapping, technical options, risk boundaries, and a buildable delivery slice |
+| **Product engineering** | Responsive web platforms, mobile applications, APIs, integrations, data models, automation, and release pipelines |
+| **AI workflow systems** | Human-governed AI features, approval checkpoints, privacy-conscious prompts, provider boundaries, and measurable outcomes |
+| **Delivery operations** | Proposals, milestones, project dashboards, approvals, reports, handover evidence, and production-readiness gates |
+| **Platform improvement** | Security hardening, performance work, operational automation, health checks, cost control, and recovery documentation |
 
 ## Company Architecture
 
